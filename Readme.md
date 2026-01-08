@@ -178,7 +178,6 @@ This implementation prioritizes:
 from dataclasses import dataclass
 import random
 
-
 @dataclass
 class GameState:
     round_number: int = 1
