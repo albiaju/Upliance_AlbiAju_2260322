@@ -170,7 +170,6 @@ This implementation prioritizes:
 5. **Agent-Oriented Architecture** — Following Google ADK patterns for future scalability
 
 ---
-
 ## Python Implementation
 
 ### File: main.py
